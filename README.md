@@ -13,7 +13,7 @@
 [![redux](https://img.shields.io/badge/-redux-/?style=for-the-badge&color=764ABC&labelColor=ffffff&logoColor=764ABC&logoWidth=30&logo=redux)](https://redux.js.org)
 [![node](https://img.shields.io/badge/-node-/?style=for-the-badge&color=339933&labelColor=ffffff&logoColor=339933&logoWidth=30&logo=node.js)](https://nodejs.org)
 [![express](https://img.shields.io/badge/-express-/?style=for-the-badge&color=37424d&labelColor=ffffff&logoColor=37424d&logoWidth=30&logo=express)](https://expressjs.com)
-
+[![next](https://img.shields.io/badge/-next-/?style=for-the-badge&color=1d262c&labelColor=ffffff&logoColor=1d262c&logoWidth=30&logo=next.js)](https://nextjs.org/)
 <!-- [![mongodb](https://img.shields.io/badge/-mongodb-/?style=for-the-badge&color=47A248&labelColor=ffffff&logoColor=47A248&logoWidth=30&logo=mongodb)](https://www.mongodb.com)
 [![jwt](https://img.shields.io/badge/-jwt-/?style=for-the-badge&color=d171f2&labelColor=ffffff&logoColor=d171f2&logoWidth=30&logo=jsonwebtokens)](https://jwt.io/)
 [![webgl](https://img.shields.io/badge/-webgl-/?style=for-the-badge&color=990000&labelColor=ffffff&logoColor=990000&logoWidth=30&logo=webgl)](https://www.khronos.org/webgl)
